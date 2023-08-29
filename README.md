@@ -14,9 +14,9 @@ Presentation - Project Requirements Document - Executive Presentation
 ## Project Requirements Document
 This document is the most detailed document about the project. 
 
-https://github.com/fernandoaraujo23/Sell-Boardames---Executive-Presentation/blob/main/ExecutivePresentation_ProjectDocumentation_FernandoAraujo.pdf
+https://github.com/fernandoaraujo23/SellBoargames-ExecutivePresentation/blob/main/ExecutivePresentation_ProjectDocumentation_FernandoAraujo.pdf
 
 ## Executive Presentation
 This is the final presentation.
 
-https://github.com/fernandoaraujo23/Sell-Boardames---Executive-Presentation/blob/main/ExecutivePresentation_SellBoardgames_FernandoAraujo.pdf
+https://github.com/fernandoaraujo23/SellBoargames-ExecutivePresentation/blob/main/ExecutivePresentation_SellBoardgames_FernandoAraujo.pdf
