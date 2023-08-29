@@ -1,7 +1,7 @@
 # Sell Boardames - Executive Presentation
 
 ## Introduction
-After carrying out the development of the main project, I am using these analyzes
+After carrying out the development of the main project, I am using these analyses
 to demonstrate my analytical side. The focus of this project is to show a little of my ability
 to compile and analyze data, obtain insights, and prepare a high-level presentation about
 these insights, supporting each conclusion obtained with data
